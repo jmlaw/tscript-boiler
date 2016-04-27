@@ -1,0 +1,23 @@
+{
+  "name": "tscript-boiler",
+  "version": "0.0.1",
+  "description": "A project for the personal convenience of a really inexperienced developer. It helps with the setup of typescript projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmlaw/tscript-boiler.git"
+  },
+  "keywords": [
+    "typescript",
+    "boilerplate"
+  ],
+  "author": "Ioannis Mertzanis",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jmlaw/tscript-boiler/issues"
+  },
+  "homepage": "https://github.com/jmlaw/tscript-boiler#readme"
+}
